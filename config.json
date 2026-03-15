@@ -1,0 +1,13 @@
+{
+  "workspaceDir": "~/.hot-repo-radar",
+  "snapshotDir": "~/.hot-repo-radar/snapshots",
+  "reportDir": "~/.hot-repo-radar/reports",
+  "translationCachePath": "~/.hot-repo-radar/cache/translations.json",
+  "leaderboardSize": 20,
+  "retentionDays": 21,
+  "requestTimeoutMs": 12000,
+  "requestRetries": 3,
+  "translationEnabled": true,
+  "translationBatchSize": 4,
+  "windows": ["daily", "weekly", "monthly"]
+}
